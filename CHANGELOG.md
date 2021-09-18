@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2021-09-18
+### Added
+- New feature f2 by [@brunoPiva](https://github.com/brunoPiva)
+
 ## [0.1.0] - 2021-09-18
 ### Added
-- New feature f1 from [@brunoPiva](https://github.com/brunoPiva)
+- New feature f1 by [@brunoPiva](https://github.com/brunoPiva)
