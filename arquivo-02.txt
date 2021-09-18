@@ -1,2 +1,4 @@
 Código da Feature f2
 Corrigido o Bug na hotfix 1.0.0
+Código da feature f3
+
